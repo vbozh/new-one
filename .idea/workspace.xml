@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3b8cc2f-4be2-4f53-b880-4df5effa5c6b" name="Changes" comment="" />
+    <list default="true" id="c3b8cc2f-4be2-4f53-b880-4df5effa5c6b" name="Changes" comment="pewpew" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HDLSkTb6BSCrnkuMvSk8Ayw8pQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,7 +35,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667814710225</updated>
+      <workItem from="1667814711420" duration="74000" />
     </task>
+    <task id="LOCAL-00001" summary="pewpew">
+      <created>1667814776562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667814776562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pewpew" />
+    <option name="LAST_COMMIT_MESSAGE" value="pewpew" />
   </component>
 </project>
