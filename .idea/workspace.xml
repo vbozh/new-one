@@ -31,7 +31,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "application.passwordSafe",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -45,7 +45,7 @@
       <updated>1667814710225</updated>
       <workItem from="1667814711420" duration="74000" />
       <workItem from="1667815085117" duration="54000" />
-      <workItem from="1667815152214" duration="707000" />
+      <workItem from="1667815152214" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="pewpew">
       <created>1667814776562</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667815828053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pewpew">
+      <created>1667815872850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667815872850</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
